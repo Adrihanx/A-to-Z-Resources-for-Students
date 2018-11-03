@@ -4,9 +4,9 @@
 
 > ## [Échale un ojo a la Lista de Colaboradores :heart::heart:](CONTRIBUTORS.md) - **Agrega tus detalles aqui**
 
-### Eres estudiante de universidad o un profesional empleado buscando recursos para aprender un lenguaje nuevo? Estas buscando nueva gente para conocer dentro de tu comunidad, o buscando conferencias globales, hackatones, y competencias para aSi stir? Si  es así, definitivamente deberías echarle un ojo a esto. 
+### Eres estudiante de universidad o un profesional empleado buscando recursos para aprender un lenguaje nuevo? Estas buscando nueva gente para conocer dentro de tu comunidad, o buscando conferencias globales, hackatones, y competencias para asistir? Si  es así, definitivamente deberías echarle un ojo a esto. 
 
-Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackatones, conferencias, pasantías y una cantidad de eventos globales por no estar al tanto. No quiero que a los programadores emergentes les pase lo mismo que a mí. Así que junto con un grupo de programadores de todas partes, hemos recopilado una lista de recursos para estudiantes. Si  estas en la univerSi dad, o recientemente te graduaste, o estas empezando como programador, definitivamente deberías echarle un ojo a esta lista!
+Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackatones, conferencias, pasantías y una cantidad de eventos globales por no estar al tanto. No quiero que a los programadores emergentes les pase lo mismo que a mí. Así que junto con un grupo de programadores de todas partes, hemos recopilado una lista de recursos para estudiantes. Si  estas en la universidad, o recientemente te graduaste, o estas empezando como programador, definitivamente deberías echarle un ojo a esta lista!
 
 ![Image](../res/xx.gif)
 
